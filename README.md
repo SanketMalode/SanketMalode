@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2000&pause=500&color=blue&vCenter=true&width=600&lines=Hello+World;I+am+Sanket+Malode;Welcome+to+My+Github+Profile)
 I'm Computer Science Engineering student with a strong passion for technology and continuous learning.<br>Throughout my academic journey, I’ve explored a range of domains including full-stack and backend development, gaining hands-on experience with technologies like C++, Java, JavaScript, React, and Node.js.<br>I'm always curious about emerging tech and enjoy diving into new tools and frameworks. Whether it’s building scalable applications or optimizing backend processes, I love solving problems through code.<br><br>I'm currently seeking full-time opportunities where I can contribute, grow, and collaborate with like-minded individuals. <br>Always open to learning and connecting............let’s connect!
 
 
